@@ -4,10 +4,12 @@
 
 - <b>Azure</b>
   - [Administrator](https://github.com/KanekLuke/Azure-Administrator/blob/main/README.md)
-  - [Architect](https://github.com/KanekLuke/Azure-Architect/blob/main/README.md)
+  - [Architecture](https://github.com/KanekLuke/Azure-Architect/blob/main/README.md)
   - [Security](https://github.com/KanekLuke/Azure-Security/blob/main/README.md)
 - <b>AWS</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Administrator](https://github.com/KanekLuke/AWS-Administrator)
+  - [Architecture](https://github.com/KanekLuke/AWS-Architect)
+  - [Security](https://github.com/KanekLuke/AWS-Security)
 - <b>Microsoft 365</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL</b>
