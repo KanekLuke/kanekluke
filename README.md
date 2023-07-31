@@ -5,7 +5,7 @@
 - <b>Azure</b>
   - [Administrator](https://github.com/KanekLuke/Azure-Administrator/blob/main/README.md)
   - [Architect](https://github.com/KanekLuke/Azure-Architect/blob/main/README.md)
-  - [Security](https://drive.google.com/file/d/1GhSM4z5JG4NsDA6vIZuAoZ6Bp_HfIkUq/view?usp=sharing)
+  - [Security](https://github.com/KanekLuke/Azure-Security/blob/main/README.md)
 - <b>AWS</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Microsoft 365</b>
