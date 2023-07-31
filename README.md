@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure</b>
-  - [Administrator](https://drive.google.com/file/d/1GarwJ-HCAvTHODSrC2v3H5pBuGQJudxd/view?usp=sharing)
+  - [Administrator](https://github.com/KanekLuke/Azure-Administrator/blob/main/README.md)
   - [Architect](https://drive.google.com/file/d/1H59c4hT23qBvnOh72JUDE8PBIfTQQ3SY/view?usp=sharing)
   - [Security](https://drive.google.com/file/d/1GhSM4z5JG4NsDA6vIZuAoZ6Bp_HfIkUq/view?usp=sharing)
 - <b>AWS</b>
