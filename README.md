@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Azure 1<br>
+- <b>Azure Fundamentals<br>
 <b>Description:<br>
 Implement an Azure Load Balancer, 
 Manage Azure Resource Deployment by Using an Azure Resource Manager Template, 
@@ -17,7 +17,7 @@ Azure Cost Management
 
 https://drive.google.com/file/d/1GarwJ-HCAvTHODSrC2v3H5pBuGQJudxd/view?usp=sharing<br>
 
-- <b>Azure 2<br>
+- <b>Azure Architect<br>
 <b>Description:<br>
 Deploy an Azure VM by Using PowerShell, 
 Configure a Virtual Machine by Using a Custom Script Extension, 
@@ -34,16 +34,22 @@ Provision an Azure Cosmos DB
 
 https://drive.google.com/file/d/1GZEEwCKrC6poUGEPybLgQY3NBB1Kswfv/view?usp=sharing<br>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Azure Security<br>
+<b>Description:<br>
+Configure Authentication for an Azure Web App,
+Implement Role-Based Access Control,
+Configure Virtual Network Connectivity by Using Peering,
+Configure an Application Security Group,
+Configure Azure Disk Encryption,
+Configure Security by Using the Azure Kubernetes Service,
+Create Azure Resource Locks on a Web App,
+Enable Database Auditing with Azure SQL Database,
+Manage Shared Access Signature Keys,
+Configure Security for an Azure Cosmos DB Account,
+Configure Monitoring by Using Azure Monitor,
+Configure Application Insights and App Service Logs for a Web App,
+Configure Security Recommendations for an Azure Virtual Machine,
+Enable Azure Defender for SQL in an Azure SQL Database
+
+
+https://drive.google.com/file/d/1GhSM4z5JG4NsDA6vIZuAoZ6Bp_HfIkUq/view?usp=sharing
