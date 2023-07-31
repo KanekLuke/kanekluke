@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Azure 1<br>
+https://drive.google.com/file/d/1GarwJ-HCAvTHODSrC2v3H5pBuGQJudxd/view?usp=sharing
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
