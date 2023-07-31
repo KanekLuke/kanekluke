@@ -4,7 +4,6 @@
 
 - <b>Azure</b>
   - [Administrator](https://drive.google.com/file/d/1GarwJ-HCAvTHODSrC2v3H5pBuGQJudxd/view?usp=sharing)
-- <b>Azure</b>
   - [Architect](https://drive.google.com/file/d/1GZEEwCKrC6poUGEPybLgQY3NBB1Kswfv/view?usp=sharing)
 - <b>AWS</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
