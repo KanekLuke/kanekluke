@@ -20,6 +20,4 @@
   - [Microsoft 365 I](https://github.com/KanekLuke/Microsoft-365-1/blob/main/README.md)
 <br>(Select 5 users to receive updates before they're released to everyone else, Use PowerShell to connect to M365, Assign license to users with PowerShell or Admin center, Create shared mailbox from Exchange Admin center and provide access to users, Create distribution list and add users, Sharing policy that only allows users in organization to share files over OneDrive, Create policy that prevents private and shared channel creation)
   - [Microsoft 365 II](https://github.com/KanekLuke/Microsoft-365-2)
-<br>(Select 5 users to receive updates before they're released to everyone else, Use PowerShell to connect to M365, Assign license to users with PowerShell or Admin center, Create shared mailbox from Exchange Admin center and provide access to users, Create distribution list and add users, Sharing policy that only allows users in organization to share files over OneDrive, Create policy that prevents private and shared channel creation)
-
-
+<br>(Create mailboxes, create distribution list, configure DLP, block emails with HTML, enable tenant analytics, MFA, phishing policy, safe link policy)
