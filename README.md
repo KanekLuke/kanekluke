@@ -24,3 +24,5 @@
 - <b>Windows Servers</b><br>
   - [Windows Server](https://github.com/KanekLuke/Windows-Server)
 <br>(Install domain, Configure group policy and enforce password change, Install DHCP server, Create forwarder from DNS server, Create storage pool on virtual disk, Install Hyper-V)
+- <b>SQL</b><br>
+  - [SQL](https://drive.google.com/file/d/1HepIDFoEyyy5-vjhwsDVsb0XHjm48Uyu/view?usp=sharing)
