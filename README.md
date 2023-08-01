@@ -13,5 +13,6 @@
   - [Administrator](https://github.com/KanekLuke/AWS-Administrator)
   - [Architecture](https://github.com/KanekLuke/AWS-Architect)
   - [Security](https://github.com/KanekLuke/AWS-Security)
+<br>(Suggest security features for a company's infrastructure, Architecture improvements using Well_Architected Framework)
 - <b>Microsoft 365</b>
 
