@@ -8,6 +8,7 @@
   - [Architecture](https://github.com/KanekLuke/Azure-Architect/blob/main/README.md)
 <br>(Deploy VM using PowerShell, Custom script ext, Azure container, Metric alert, Route tables, Storage table, Storage queue, Blob storage public/private access, Azure Database for MySQL Database, Cosmos DB)
   - [Security](https://github.com/KanekLuke/Azure-Security/blob/main/README.md)
+<br>(Azure Web App Authentication, Peering, ASG, Disk encryption, Kubernetes, Resource locks, Azure SQL Database auditing, Shared access signature keys, Cosmos DB security, Azure Monitor, Application Insights and App Service logs for Web App, Security for VM, Azure Defender for SQL)
 - <b>AWS</b>
   - [Administrator](https://github.com/KanekLuke/AWS-Administrator)
   - [Architecture](https://github.com/KanekLuke/AWS-Architect)
