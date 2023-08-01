@@ -18,7 +18,6 @@
 <br>(Suggest security features for a company's infrastructure, Architecture improvements using Well-Architected Framework)
 - <b>Microsoft 365</b><br>
   - [Microsoft 365 I](https://github.com/KanekLuke/Microsoft-365-1/blob/main/README.md)
-<br>(Select 5 users to receive updates before they're released to everyone else, Use PowerShell to connect to M365, 
-Create 2 users, Assign license to users with PowerShell or Admin center, Install Office 365 on a VM and log in with sandbox user account, Create shared mailbox from Exchange Admin center and provide access to users, Create distribution list and add users, Sharing policy that only allows users in organization to share files over OneDrive, Create new team and add users, Create policy that prevents private and shared channel creation)
+<br>(Select 5 users to receive updates before they're released to everyone else, Use PowerShell to connect to M365, Assign license to users with PowerShell or Admin center, Create shared mailbox from Exchange Admin center and provide access to users, Create distribution list and add users, Sharing policy that only allows users in organization to share files over OneDrive, Create policy that prevents private and shared channel creation)
 
 
