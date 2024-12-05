@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kane! <br/>Cloud / IT Professional</a></h1><br><br>
+<h1>Hi, I'm Kane! <br/>Cloud / IT Professional</a></h1><br>
 Below are some of the projects I've worked on.
 
 <h2>👨‍💻 Projects:</h2>
