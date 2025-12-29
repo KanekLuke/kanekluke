@@ -3,7 +3,45 @@ Below are some of the projects I've worked on.
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Azure</b>
+# MunkiReport Cloud Modernization (AWS to Azure Container Apps)
+
+Modernized a legacy MunkiReport deployment into a cloud-native Azure architecture using Azure Container Apps + Azure Database for MySQL, with persistent storage, secure networking, and reproducible image builds.
+
+A legacy MunkiReport environment originally deployed in 2022 was not being patched/managed and needed a modernization path that:
+- Removes single-host risk
+- Standardizes builds
+- Improves security posture
+- Enables repeatable deployments across subscriptions/environments
+
+What I built
+- Containerized MunkiReport with a repeatable Docker build (Apache/PHP + dependencies)
+- Migrated data into Azure Database for MySQL (Flexible Server)
+- Implemented persistent storage for app-required state
+- Deployed the workload into Azure Container Apps with environment-based configuration
+- Documented the full build + migration workflow for portability and handoff
+
+Architecture
+Core services
+- Azure Container Apps (MunkiReport web app)
+- Azure Container Registry (image storage)
+- Azure Database for MySQL Flexible Server (persistent DB)
+- Storage (for required persistent app files, if applicable)
+- Key Vault (secrets)
+
+Network / Security
+- Private networking where possible
+- RBAC for least privilege
+- App config separated from build artifacts
+- Secrets never stored in Git
+
+Repo contents
+- `app/docker/` – Dockerfile + container build assets
+- `app/compose/` – local docker-compose dev environment
+- `scripts/` – build/push/db dump+restore helpers
+- `infra/` – portal steps (and optional IaC)
+- `docs/` – migration notes + troubleshooting + diagrams
+
+<b>Azure</b>
   - [Administrator](https://github.com/KanekLuke/Azure-Administrator/blob/main/README.md)
  <br>(Load Balancing, Azure Resource Manager, CloudShell, Azure Functions, Azure Logic, RBAC, Route Tables, Virtual Network Service Endpoint, Cost Management)
   - [Architecture](https://github.com/KanekLuke/Azure-Architect/blob/main/README.md)
